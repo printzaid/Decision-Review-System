@@ -1,4 +1,4 @@
-# All media file is available for download
+# You can download images from internet and edit them and edit the code to use them
 import tkinter 
 import cv2 # pip install opencv-python
 import PIL.Image, PIL.ImageTk # pip install pillow
