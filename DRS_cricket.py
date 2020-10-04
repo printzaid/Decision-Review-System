@@ -1,4 +1,4 @@
-# All media file is available for download
+# You can make your own photos and videos and put in code
 import tkinter 
 import cv2 # pip install opencv-python
 import PIL.Image, PIL.ImageTk # pip install pillow
